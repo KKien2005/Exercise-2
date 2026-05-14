@@ -1,0 +1,72 @@
+﻿@page "/courses"
+@using SharedModels
+@using System.Net.Http.Json
+@inject HttpClient Http
+@inject IJSRuntime JS
+
+<PageTitle>Danh sách Khóa học</PageTitle>
+
+<div class="container">
+    <h3 class="my-4">Khóa học hiện có</h3>
+    @if (courses == null)
+    {
+        <p><em>Đang tải dữ liệu...</em></p>
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var course in courses)
+            {
+                <div class="col-md-4 mb-3">
+                    <div class="card shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title">@course.Title</h5>
+                            <p class="card-text text-primary">
+                                Giá: @course.Price.ToString("N0") VNĐ
+                            </p>
+                            <button class="btn btn-success" @onclick="() => Enroll(course.Id)">
+                                Đăng ký ngay
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>
+
+@code {
+    private List<Course>? courses;
+    private int currentUserId = 1;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            courses = await Http.GetFromJsonAsync<List<Course>>("https://localhost:5002/api/courses");
+        }
+        catch (Exception ex)
+        {
+            await JS.InvokeVoidAsync("alert", $"Lỗi tải khóa học: {ex.Message}");
+        }
+    }
+
+    private async Task Enroll(int courseId)
+    {
+        try
+        {
+            var response = await Http.PostAsync(
+                $"https://localhost:5003/api/orders?userId={currentUserId}&courseId={courseId}",
+                null);
+
+            var msg = response.IsSuccessStatusCode
+                ? "Đăng ký thành công!"
+                : $"Thất bại: {await response.Content.ReadAsStringAsync()}";
+            await JS.InvokeVoidAsync("alert", msg);
+        }
+        catch (Exception ex)
+        {
+            await JS.InvokeVoidAsync("alert", $"Lỗi: {ex.Message}");
+        }
+    }
+}

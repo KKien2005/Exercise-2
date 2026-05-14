@@ -1,0 +1,435 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{507C24CF-25DD-4C3A-9AD8-531D8B957947}|LibraryFrontend\\LibraryFrontend.csproj|e:\\nambinh_soa\\digitallibrarysystem\\libraryfrontend\\pages\\books.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{507C24CF-25DD-4C3A-9AD8-531D8B957947}|LibraryFrontend\\LibraryFrontend.csproj|solutionrelative:libraryfrontend\\pages\\books.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{507C24CF-25DD-4C3A-9AD8-531D8B957947}|LibraryFrontend\\LibraryFrontend.csproj|e:\\nambinh_soa\\digitallibrarysystem\\libraryfrontend\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{507C24CF-25DD-4C3A-9AD8-531D8B957947}|LibraryFrontend\\LibraryFrontend.csproj|solutionrelative:libraryfrontend\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED903A4-1E66-462F-AB32-7DFD471F5C36}|ApiGateway\\ApiGateway.csproj|e:\\nambinh_soa\\digitallibrarysystem\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AED903A4-1E66-462F-AB32-7DFD471F5C36}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED903A4-1E66-462F-AB32-7DFD471F5C36}|ApiGateway\\ApiGateway.csproj|e:\\nambinh_soa\\digitallibrarysystem\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AED903A4-1E66-462F-AB32-7DFD471F5C36}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED903A4-1E66-462F-AB32-7DFD471F5C36}|ApiGateway\\ApiGateway.csproj|e:\\nambinh_soa\\digitallibrarysystem\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AED903A4-1E66-462F-AB32-7DFD471F5C36}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED903A4-1E66-462F-AB32-7DFD471F5C36}|ApiGateway\\ApiGateway.csproj|e:\\nambinh_soa\\digitallibrarysystem\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AED903A4-1E66-462F-AB32-7DFD471F5C36}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A42588-7156-4A2F-B43B-6F4D591146D6}|Borrowing.API\\Borrowing.API.csproj|e:\\nambinh_soa\\digitallibrarysystem\\borrowing.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8A42588-7156-4A2F-B43B-6F4D591146D6}|Borrowing.API\\Borrowing.API.csproj|solutionrelative:borrowing.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A42588-7156-4A2F-B43B-6F4D591146D6}|Borrowing.API\\Borrowing.API.csproj|e:\\nambinh_soa\\digitallibrarysystem\\borrowing.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8A42588-7156-4A2F-B43B-6F4D591146D6}|Borrowing.API\\Borrowing.API.csproj|solutionrelative:borrowing.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A42588-7156-4A2F-B43B-6F4D591146D6}|Borrowing.API\\Borrowing.API.csproj|e:\\nambinh_soa\\digitallibrarysystem\\borrowing.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A42588-7156-4A2F-B43B-6F4D591146D6}|Borrowing.API\\Borrowing.API.csproj|solutionrelative:borrowing.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A42588-7156-4A2F-B43B-6F4D591146D6}|Borrowing.API\\Borrowing.API.csproj|e:\\nambinh_soa\\digitallibrarysystem\\borrowing.api\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A42588-7156-4A2F-B43B-6F4D591146D6}|Borrowing.API\\Borrowing.API.csproj|solutionrelative:borrowing.api\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A42588-7156-4A2F-B43B-6F4D591146D6}|Borrowing.API\\Borrowing.API.csproj|e:\\nambinh_soa\\digitallibrarysystem\\borrowing.api\\data\\borrowingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A42588-7156-4A2F-B43B-6F4D591146D6}|Borrowing.API\\Borrowing.API.csproj|solutionrelative:borrowing.api\\data\\borrowingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D38C6-1001-43BC-AE8A-51D87CB1ADED}|Notification.API\\Notification.API.csproj|e:\\nambinh_soa\\digitallibrarysystem\\notification.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{004D38C6-1001-43BC-AE8A-51D87CB1ADED}|Notification.API\\Notification.API.csproj|solutionrelative:notification.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D38C6-1001-43BC-AE8A-51D87CB1ADED}|Notification.API\\Notification.API.csproj|e:\\nambinh_soa\\digitallibrarysystem\\notification.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D38C6-1001-43BC-AE8A-51D87CB1ADED}|Notification.API\\Notification.API.csproj|solutionrelative:notification.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D38C6-1001-43BC-AE8A-51D87CB1ADED}|Notification.API\\Notification.API.csproj|e:\\nambinh_soa\\digitallibrarysystem\\notification.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{004D38C6-1001-43BC-AE8A-51D87CB1ADED}|Notification.API\\Notification.API.csproj|solutionrelative:notification.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D38C6-1001-43BC-AE8A-51D87CB1ADED}|Notification.API\\Notification.API.csproj|e:\\nambinh_soa\\digitallibrarysystem\\notification.api\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D38C6-1001-43BC-AE8A-51D87CB1ADED}|Notification.API\\Notification.API.csproj|solutionrelative:notification.api\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57209A9E-21FF-4D16-8BF5-195E29E8878C}|Book.API\\Book.API.csproj|e:\\nambinh_soa\\digitallibrarysystem\\book.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57209A9E-21FF-4D16-8BF5-195E29E8878C}|Book.API\\Book.API.csproj|solutionrelative:book.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57209A9E-21FF-4D16-8BF5-195E29E8878C}|Book.API\\Book.API.csproj|e:\\nambinh_soa\\digitallibrarysystem\\book.api\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57209A9E-21FF-4D16-8BF5-195E29E8878C}|Book.API\\Book.API.csproj|solutionrelative:book.api\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE2B43E-D408-41B4-86D4-1EF671FE2FD0}|Identity.API\\Identity.API.csproj|e:\\nambinh_soa\\digitallibrarysystem\\identity.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AE2B43E-D408-41B4-86D4-1EF671FE2FD0}|Identity.API\\Identity.API.csproj|solutionrelative:identity.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE2B43E-D408-41B4-86D4-1EF671FE2FD0}|Identity.API\\Identity.API.csproj|e:\\nambinh_soa\\digitallibrarysystem\\identity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE2B43E-D408-41B4-86D4-1EF671FE2FD0}|Identity.API\\Identity.API.csproj|solutionrelative:identity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE2B43E-D408-41B4-86D4-1EF671FE2FD0}|Identity.API\\Identity.API.csproj|e:\\nambinh_soa\\digitallibrarysystem\\identity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AE2B43E-D408-41B4-86D4-1EF671FE2FD0}|Identity.API\\Identity.API.csproj|solutionrelative:identity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE2B43E-D408-41B4-86D4-1EF671FE2FD0}|Identity.API\\Identity.API.csproj|e:\\nambinh_soa\\digitallibrarysystem\\identity.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE2B43E-D408-41B4-86D4-1EF671FE2FD0}|Identity.API\\Identity.API.csproj|solutionrelative:identity.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE2B43E-D408-41B4-86D4-1EF671FE2FD0}|Identity.API\\Identity.API.csproj|e:\\nambinh_soa\\digitallibrarysystem\\identity.api\\data\\identitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE2B43E-D408-41B4-86D4-1EF671FE2FD0}|Identity.API\\Identity.API.csproj|solutionrelative:identity.api\\data\\identitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7785DDD-C0E9-4EC4-A639-967A18EA2910}|LibraryShared\\LibraryShared.csproj|e:\\nambinh_soa\\digitallibrarysystem\\libraryshared\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7785DDD-C0E9-4EC4-A639-967A18EA2910}|LibraryShared\\LibraryShared.csproj|solutionrelative:libraryshared\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\LibraryFrontend\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "LibraryFrontend\\Layout\\NavMenu.razor",
+              "ToolTip": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\LibraryFrontend\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "LibraryFrontend\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-08T07:18:31.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Books.razor",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\LibraryFrontend\\Pages\\Books.razor",
+              "RelativeDocumentMoniker": "LibraryFrontend\\Pages\\Books.razor",
+              "ToolTip": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\LibraryFrontend\\Pages\\Books.razor",
+              "RelativeToolTip": "LibraryFrontend\\Pages\\Books.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-08T07:16:16.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\appsettings.json",
+              "ToolTip": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "ApiGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-08T07:15:29.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-08T07:15:15.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:15:05.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\ApiGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "ApiGateway\\ocelot.json",
+              "ToolTip": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\ApiGateway\\ocelot.json",
+              "RelativeToolTip": "ApiGateway\\ocelot.json",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-08T07:14:00.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Borrowing.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Borrowing.API\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Borrowing.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Borrowing.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-08T07:12:46.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Borrowing.API\\Program.cs",
+              "RelativeDocumentMoniker": "Borrowing.API\\Program.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Borrowing.API\\Program.cs",
+              "RelativeToolTip": "Borrowing.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:12:25.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Borrowing.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Borrowing.API\\appsettings.json",
+              "ToolTip": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Borrowing.API\\appsettings.json",
+              "RelativeToolTip": "Borrowing.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-08T07:12:12.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BorrowController.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Borrowing.API\\Controllers\\BorrowController.cs",
+              "RelativeDocumentMoniker": "Borrowing.API\\Controllers\\BorrowController.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Borrowing.API\\Controllers\\BorrowController.cs",
+              "RelativeToolTip": "Borrowing.API\\Controllers\\BorrowController.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAcwKIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:10:33.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BorrowingDbContext.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Borrowing.API\\Data\\BorrowingDbContext.cs",
+              "RelativeDocumentMoniker": "Borrowing.API\\Data\\BorrowingDbContext.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Borrowing.API\\Data\\BorrowingDbContext.cs",
+              "RelativeToolTip": "Borrowing.API\\Data\\BorrowingDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:09:30.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Notification.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Notification.API\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Notification.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Notification.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-08T07:08:56.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Notification.API\\Program.cs",
+              "RelativeDocumentMoniker": "Notification.API\\Program.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Notification.API\\Program.cs",
+              "RelativeToolTip": "Notification.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:08:42.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Notification.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Notification.API\\appsettings.json",
+              "ToolTip": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Notification.API\\appsettings.json",
+              "RelativeToolTip": "Notification.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-08T07:08:29.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Notification.API\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "Notification.API\\Controllers\\NotificationsController.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Notification.API\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "Notification.API\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:08:01.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Book.API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Book.API\\Controllers\\BooksController.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Book.API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Book.API\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T06:43:00.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookDbContext.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Book.API\\Data\\BookDbContext.cs",
+              "RelativeDocumentMoniker": "Book.API\\Data\\BookDbContext.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Book.API\\Data\\BookDbContext.cs",
+              "RelativeToolTip": "Book.API\\Data\\BookDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T06:41:38.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Identity.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Identity.API\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Identity.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Identity.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-08T06:34:33.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Identity.API\\Program.cs",
+              "RelativeDocumentMoniker": "Identity.API\\Program.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Identity.API\\Program.cs",
+              "RelativeToolTip": "Identity.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T06:34:01.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Identity.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Identity.API\\appsettings.json",
+              "ToolTip": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Identity.API\\appsettings.json",
+              "RelativeToolTip": "Identity.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-08T06:33:41.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Identity.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Identity.API\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Identity.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Identity.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T06:32:44.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IdentityDbContext.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Identity.API\\Data\\IdentityDbContext.cs",
+              "RelativeDocumentMoniker": "Identity.API\\Data\\IdentityDbContext.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\Identity.API\\Data\\IdentityDbContext.cs",
+              "RelativeToolTip": "Identity.API\\Data\\IdentityDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T06:32:07.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Models.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\LibraryShared\\Models.cs",
+              "RelativeDocumentMoniker": "LibraryShared\\Models.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\DigitalLibrarySystem\\LibraryShared\\Models.cs",
+              "RelativeToolTip": "LibraryShared\\Models.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T05:53:54.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

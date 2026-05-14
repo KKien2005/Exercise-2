@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\NamBinh_SOA\\CourseManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBB6020-F656-4B86-A910-D74C56D35619}|CourseFrontend\\CourseFrontend.csproj|e:\\nambinh_soa\\coursemanagementsystem\\coursefrontend\\pages\\courses.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FBB6020-F656-4B86-A910-D74C56D35619}|CourseFrontend\\CourseFrontend.csproj|solutionrelative:coursefrontend\\pages\\courses.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216823BE-67F2-44AF-86C9-0F44441A3D67}|Catalog.API\\Catalog.API.csproj|e:\\nambinh_soa\\coursemanagementsystem\\catalog.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{216823BE-67F2-44AF-86C9-0F44441A3D67}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E35321-1BFA-40EC-AC24-5839F279A2FA}|Identity.API\\Identity.API.csproj|e:\\nambinh_soa\\coursemanagementsystem\\identity.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3E35321-1BFA-40EC-AC24-5839F279A2FA}|Identity.API\\Identity.API.csproj|solutionrelative:identity.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D7479-2473-4326-81A7-5C9BD91BE448}|Ordering.API\\Ordering.API.csproj|e:\\nambinh_soa\\coursemanagementsystem\\ordering.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C8D7479-2473-4326-81A7-5C9BD91BE448}|Ordering.API\\Ordering.API.csproj|solutionrelative:ordering.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D7479-2473-4326-81A7-5C9BD91BE448}|Ordering.API\\Ordering.API.csproj|e:\\nambinh_soa\\coursemanagementsystem\\ordering.api\\ordering.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C8D7479-2473-4326-81A7-5C9BD91BE448}|Ordering.API\\Ordering.API.csproj|solutionrelative:ordering.api\\ordering.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E35321-1BFA-40EC-AC24-5839F279A2FA}|Identity.API\\Identity.API.csproj|e:\\nambinh_soa\\coursemanagementsystem\\identity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E35321-1BFA-40EC-AC24-5839F279A2FA}|Identity.API\\Identity.API.csproj|solutionrelative:identity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D7479-2473-4326-81A7-5C9BD91BE448}|Ordering.API\\Ordering.API.csproj|e:\\nambinh_soa\\coursemanagementsystem\\ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8D7479-2473-4326-81A7-5C9BD91BE448}|Ordering.API\\Ordering.API.csproj|solutionrelative:ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216823BE-67F2-44AF-86C9-0F44441A3D67}|Catalog.API\\Catalog.API.csproj|e:\\nambinh_soa\\coursemanagementsystem\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216823BE-67F2-44AF-86C9-0F44441A3D67}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E35321-1BFA-40EC-AC24-5839F279A2FA}|Identity.API\\Identity.API.csproj|e:\\nambinh_soa\\coursemanagementsystem\\identity.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E35321-1BFA-40EC-AC24-5839F279A2FA}|Identity.API\\Identity.API.csproj|solutionrelative:identity.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D7479-2473-4326-81A7-5C9BD91BE448}|Ordering.API\\Ordering.API.csproj|e:\\nambinh_soa\\coursemanagementsystem\\ordering.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8D7479-2473-4326-81A7-5C9BD91BE448}|Ordering.API\\Ordering.API.csproj|solutionrelative:ordering.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D7479-2473-4326-81A7-5C9BD91BE448}|Ordering.API\\Ordering.API.csproj|e:\\nambinh_soa\\coursemanagementsystem\\ordering.api\\data\\orderingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8D7479-2473-4326-81A7-5C9BD91BE448}|Ordering.API\\Ordering.API.csproj|solutionrelative:ordering.api\\data\\orderingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216823BE-67F2-44AF-86C9-0F44441A3D67}|Catalog.API\\Catalog.API.csproj|e:\\nambinh_soa\\coursemanagementsystem\\catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{216823BE-67F2-44AF-86C9-0F44441A3D67}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E35321-1BFA-40EC-AC24-5839F279A2FA}|Identity.API\\Identity.API.csproj|e:\\nambinh_soa\\coursemanagementsystem\\identity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3E35321-1BFA-40EC-AC24-5839F279A2FA}|Identity.API\\Identity.API.csproj|solutionrelative:identity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216823BE-67F2-44AF-86C9-0F44441A3D67}|Catalog.API\\Catalog.API.csproj|e:\\nambinh_soa\\coursemanagementsystem\\catalog.api\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216823BE-67F2-44AF-86C9-0F44441A3D67}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216823BE-67F2-44AF-86C9-0F44441A3D67}|Catalog.API\\Catalog.API.csproj|e:\\nambinh_soa\\coursemanagementsystem\\catalog.api\\data\\catalogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216823BE-67F2-44AF-86C9-0F44441A3D67}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\data\\catalogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E35321-1BFA-40EC-AC24-5839F279A2FA}|Identity.API\\Identity.API.csproj|e:\\nambinh_soa\\coursemanagementsystem\\identity.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E35321-1BFA-40EC-AC24-5839F279A2FA}|Identity.API\\Identity.API.csproj|solutionrelative:identity.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E35321-1BFA-40EC-AC24-5839F279A2FA}|Identity.API\\Identity.API.csproj|e:\\nambinh_soa\\coursemanagementsystem\\identity.api\\data\\identitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E35321-1BFA-40EC-AC24-5839F279A2FA}|Identity.API\\Identity.API.csproj|solutionrelative:identity.api\\data\\identitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9482C3-A853-4C76-B178-CFA74D246E93}|SharedModels\\SharedModels.csproj|e:\\nambinh_soa\\coursemanagementsystem\\sharedmodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9482C3-A853-4C76-B178-CFA74D246E93}|SharedModels\\SharedModels.csproj|solutionrelative:sharedmodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9482C3-A853-4C76-B178-CFA74D246E93}|SharedModels\\SharedModels.csproj|e:\\nambinh_soa\\coursemanagementsystem\\sharedmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9482C3-A853-4C76-B178-CFA74D246E93}|SharedModels\\SharedModels.csproj|solutionrelative:sharedmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9482C3-A853-4C76-B178-CFA74D246E93}|SharedModels\\SharedModels.csproj|e:\\nambinh_soa\\coursemanagementsystem\\sharedmodels\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9482C3-A853-4C76-B178-CFA74D246E93}|SharedModels\\SharedModels.csproj|solutionrelative:sharedmodels\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Courses.razor",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\CourseManagementSystem\\CourseFrontend\\Pages\\Courses.razor",
+              "RelativeDocumentMoniker": "CourseFrontend\\Pages\\Courses.razor",
+              "ToolTip": "E:\\NamBinh_SOA\\CourseManagementSystem\\CourseFrontend\\Pages\\Courses.razor",
+              "RelativeToolTip": "CourseFrontend\\Pages\\Courses.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-07T19:45:09.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ordering.API.csproj",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\CourseManagementSystem\\Ordering.API\\Ordering.API.csproj",
+              "RelativeDocumentMoniker": "Ordering.API\\Ordering.API.csproj",
+              "ToolTip": "E:\\NamBinh_SOA\\CourseManagementSystem\\Ordering.API\\Ordering.API.csproj",
+              "RelativeToolTip": "Ordering.API\\Ordering.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-07T19:41:03.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\CourseManagementSystem\\Identity.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Identity.API\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\NamBinh_SOA\\CourseManagementSystem\\Identity.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Identity.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-07T19:12:59.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\CourseManagementSystem\\Catalog.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Catalog.API\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\NamBinh_SOA\\CourseManagementSystem\\Catalog.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Catalog.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-07T19:22:47.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\CourseManagementSystem\\Identity.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Identity.API\\WeatherForecast.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\CourseManagementSystem\\Identity.API\\WeatherForecast.cs",
+              "RelativeToolTip": "Identity.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T19:25:49.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\CourseManagementSystem\\Ordering.API\\Program.cs",
+              "RelativeDocumentMoniker": "Ordering.API\\Program.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\CourseManagementSystem\\Ordering.API\\Program.cs",
+              "RelativeToolTip": "Ordering.API\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T19:26:03.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\CourseManagementSystem\\Ordering.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Ordering.API\\appsettings.json",
+              "ToolTip": "E:\\NamBinh_SOA\\CourseManagementSystem\\Ordering.API\\appsettings.json",
+              "RelativeToolTip": "Ordering.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-07T19:25:07.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\CourseManagementSystem\\Identity.API\\Program.cs",
+              "RelativeDocumentMoniker": "Identity.API\\Program.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\CourseManagementSystem\\Identity.API\\Program.cs",
+              "RelativeToolTip": "Identity.API\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T19:12:01.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\CourseManagementSystem\\Catalog.API\\Program.cs",
+              "RelativeDocumentMoniker": "Catalog.API\\Program.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\CourseManagementSystem\\Catalog.API\\Program.cs",
+              "RelativeToolTip": "Catalog.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T19:21:59.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\CourseManagementSystem\\Ordering.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Ordering.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\CourseManagementSystem\\Ordering.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Ordering.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T19:24:37.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderingDbContext.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\CourseManagementSystem\\Ordering.API\\Data\\OrderingDbContext.cs",
+              "RelativeDocumentMoniker": "Ordering.API\\Data\\OrderingDbContext.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\CourseManagementSystem\\Ordering.API\\Data\\OrderingDbContext.cs",
+              "RelativeToolTip": "Ordering.API\\Data\\OrderingDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T19:23:45.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\CourseManagementSystem\\Catalog.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Catalog.API\\appsettings.json",
+              "ToolTip": "E:\\NamBinh_SOA\\CourseManagementSystem\\Catalog.API\\appsettings.json",
+              "RelativeToolTip": "Catalog.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-07T19:20:42.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\CourseManagementSystem\\Catalog.API\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Catalog.API\\Controllers\\CoursesController.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\CourseManagementSystem\\Catalog.API\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Catalog.API\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T19:20:30.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\CourseManagementSystem\\Identity.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Identity.API\\appsettings.json",
+              "ToolTip": "E:\\NamBinh_SOA\\CourseManagementSystem\\Identity.API\\appsettings.json",
+              "RelativeToolTip": "Identity.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-07T19:09:40.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CatalogDbContext.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\CourseManagementSystem\\Catalog.API\\Data\\CatalogDbContext.cs",
+              "RelativeDocumentMoniker": "Catalog.API\\Data\\CatalogDbContext.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\CourseManagementSystem\\Catalog.API\\Data\\CatalogDbContext.cs",
+              "RelativeToolTip": "Catalog.API\\Data\\CatalogDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T19:19:33.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\CourseManagementSystem\\Identity.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Identity.API\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\CourseManagementSystem\\Identity.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Identity.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T19:07:55.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IdentityDbContext.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\CourseManagementSystem\\Identity.API\\Data\\IdentityDbContext.cs",
+              "RelativeDocumentMoniker": "Identity.API\\Data\\IdentityDbContext.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\CourseManagementSystem\\Identity.API\\Data\\IdentityDbContext.cs",
+              "RelativeToolTip": "Identity.API\\Data\\IdentityDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T19:07:39.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\CourseManagementSystem\\SharedModels\\Order.cs",
+              "RelativeDocumentMoniker": "SharedModels\\Order.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\CourseManagementSystem\\SharedModels\\Order.cs",
+              "RelativeToolTip": "SharedModels\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T19:00:08.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\CourseManagementSystem\\SharedModels\\User.cs",
+              "RelativeDocumentMoniker": "SharedModels\\User.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\CourseManagementSystem\\SharedModels\\User.cs",
+              "RelativeToolTip": "SharedModels\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T18:58:12.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\NamBinh_SOA\\CourseManagementSystem\\SharedModels\\Course.cs",
+              "RelativeDocumentMoniker": "SharedModels\\Course.cs",
+              "ToolTip": "E:\\NamBinh_SOA\\CourseManagementSystem\\SharedModels\\Course.cs",
+              "RelativeToolTip": "SharedModels\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T18:47:36.01Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

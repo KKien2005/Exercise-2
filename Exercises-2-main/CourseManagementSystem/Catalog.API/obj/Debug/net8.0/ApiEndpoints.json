@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Catalog.API.Controllers.CoursesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Courses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Catalog.API.Controllers.CoursesController",
+    "Method": "GetById",
+    "RelativePath": "api/Courses/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

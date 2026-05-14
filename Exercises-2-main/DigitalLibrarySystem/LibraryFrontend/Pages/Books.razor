@@ -1,0 +1,97 @@
+﻿@page "/books"
+@using LibraryShared
+@using System.Net.Http.Json
+@inject HttpClient Http
+@inject IJSRuntime JS
+
+<PageTitle>Thư viện Sách</PageTitle>
+
+<div class="container">
+    <h3 class="my-4"> Danh sách sách</h3>
+
+    <div class="mb-3">
+        <label>User ID đang đăng nhập: </label>
+        <input type="number" @bind="currentUserId" class="form-control d-inline-block" style="width:100px" />
+    </div>
+
+    @if (books == null)
+    {
+        <p><em>Đang tải...</em></p>
+    }
+    else if (!books.Any())
+    {
+        <p>Không có sách nào.</p>
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var book in books)
+            {
+                <div class="col-md-4 mb-3">
+                    <div class="card shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title">@book.Title</h5>
+                            <p class="text-muted">Tác giả: @book.Author</p>
+                            <p>
+                                Còn lại:
+                                <span class="badge @(book.Stock > 0 ? "bg-success" : "bg-danger")">
+                                    @book.Stock
+                                </span>
+                            </p>
+                            <button class="btn btn-primary"
+                                    disabled="@(book.Stock <= 0)"
+                                    @onclick="() => Borrow(book.Id)">
+                                Mượn sách
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>
+
+@code {
+    private List<Book>? books;
+    private int currentUserId = 1;
+
+    private const string GatewayUrl = "http://localhost:8000";
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadBooks();
+    }
+
+    private async Task LoadBooks()
+    {
+        try
+        {
+            books = await Http.GetFromJsonAsync<List<Book>>($"{GatewayUrl}/books");
+        }
+        catch (Exception ex)
+        {
+            await JS.InvokeVoidAsync("alert", $"Lỗi tải sách: {ex.Message}");
+        }
+    }
+
+    private async Task Borrow(int bookId)
+    {
+        try
+        {
+            var req = new BorrowRequest { UserId = currentUserId, BookId = bookId };
+            var response = await Http.PostAsJsonAsync($"{GatewayUrl}/borrow", req);
+
+            var content = await response.Content.ReadAsStringAsync();
+            var msg = response.IsSuccessStatusCode
+                ? "Mượn thành công!"
+                : $"Không mượn được sách: {content}";
+            await JS.InvokeVoidAsync("alert", msg);
+
+            await LoadBooks();
+        }
+        catch (Exception ex)
+        {
+            await JS.InvokeVoidAsync("alert", $"Lỗi: {ex.Message}");
+        }
+    }
+}

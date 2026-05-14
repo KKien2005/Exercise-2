@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Notification.API.Controllers.NotificationsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Notifications",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Notification.API.Controllers.NotificationsController",
+    "Method": "Send",
+    "RelativePath": "api/Notifications",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entry",
+        "Type": "LibraryShared.LogEntry",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
